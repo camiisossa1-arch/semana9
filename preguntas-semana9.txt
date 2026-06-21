@@ -1,0 +1,8 @@
+1. ¿Qué es un servidor web y qué función cumple?
+Un servidor web atiende solicitudes y envía páginas web. Procesa peticiones HTTP y entrega respuestas.
+
+2. ¿Qué es Node.js y para qué se utiliza?
+Node.js ejecuta JavaScript fuera del navegador. Se usa para servidores y APIs backend.
+
+3. ¿Cuál es la diferencia entre servidor y cliente?
+Cliente solicita información. Servidor responde y entrega datos.
