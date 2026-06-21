@@ -1,0 +1,2 @@
+Conclusión de la práctica:
+Durante la práctica aprendí que un servidor es fundamental para compartir información. Node.js permite crear servidores simples para atender peticiones. La estabilidad del servidor es importante para que los usuarios tengan acceso continuo. Con una conexión estable y buenas prácticas de seguridad, el servidor puede funcionar correctamente y beneficiar a la comunidad.
