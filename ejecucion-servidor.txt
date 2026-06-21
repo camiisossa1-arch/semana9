@@ -1,0 +1,6 @@
+Pasos para ejecutar servidor Node.js:
+1. Abrir terminal en la carpeta
+2. Escribir: node server.js  
+3. Servidor inicia en puerto 3000
+4. Abrir navegador en localhost:3000
+5. Ver mensaje de servidor corriendo
